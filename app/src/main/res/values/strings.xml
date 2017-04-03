@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AkiryCastDemo</string>
+    <string name="video_url">http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8</string>
+    <!--<string name="app_id">com.example.berg.akirycastdemo</string>-->
+    <string name="play_video">Play Video</string>
+    <string name="pause_video">Pause Video</string>
+    <string name="resume_video">Resume Video</string>
+    <string name="video_title">Paul\'s Chromecast Video Stream</string>
+    <string name="content_type_mp4">video/mp4</string>
+</resources>
