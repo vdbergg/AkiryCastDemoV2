@@ -26,8 +26,8 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.3.0'
 
-    compile 'com.android.support:mediarouter-v7:19.0.+'
-    compile 'com.google.android.gms:play-services:6.1.11'
+    compile 'com.android.support:mediarouter-v7:21.0.0'
+    compile 'com.google.android.gms:play-services:9.0.0'
 
 //    compile 'com.android.support:mediarouter-v7:25.1.0'
    // compile 'com.google.android.gms:play-services-cast-framework:10.0.1'
